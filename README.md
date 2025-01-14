@@ -1,4 +1,4 @@
-# StegCrackTool
+# StegHideBruteForce
 
 **StegHideBruteForce** é um script em Bash para realizar tentativas de extração de dados de arquivos protegidos com `steghide`, utilizando uma wordlist de senhas. 
 
